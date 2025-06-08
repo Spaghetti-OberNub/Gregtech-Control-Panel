@@ -1,0 +1,29 @@
+Pyrolyse Oven
+Pyrolyse Oven
+Pyrolyse Oven
+Distillery#1
+Distillery#2
+Distillery#3
+Distillery#4
+Distillery#5
+Reactor Fluid
+Large Heat Exchanger
+Reactor Steam Turbine
+Reactor High Pressure Steam Turbine
+Oil Distillery
+Lapatronic Capacitor
+Main EBF
+Cetane Boosted Diesel Chemical Reactor
+Distillery #6
+Alloy Smelter
+Bending Multi
+Electrolyzer Multi
+Wire Factory
+Extruder Multi
+Ore Macerator
+Ore Centrifuge
+Smelter Multi
+Ore Washer
+Ore Sieve
+Reactor Distillery
+Cleanroom
